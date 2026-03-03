@@ -1,7 +1,7 @@
 # iZotope Nectar – Vocal Production Suite
 
 <p align="center">
-  <img src="https://www.izotope.com/storage-cms/images/0/2/6/7/197620-1-eng-GB/39b078d58c70-nectar-icon-gradient-2x.png" width="200" alt="iZotope Nectar icon"/>
+  <img src="https://macx.ws/uploads/posts/2018-11/1541569690_izotope-nectar.png" width="200" alt="iZotope Nectar icon"/>
 </p>
 
 <p align="center">
